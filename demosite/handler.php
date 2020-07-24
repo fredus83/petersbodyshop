@@ -19,7 +19,10 @@ $validator->field('email')->isEmail();
 $validator->field('comments')->maxLength(6000);
 
 
-$pp->attachFiles(['image']);
+$pp->attachFiles(['image-1']);
+$pp->attachFiles(['image-2']);
+$pp->attachFiles(['image-3']);
+$pp->attachFiles(['image-4']);
 
 
 $pp->sendEmailTo('nellyp7@gmail.com'); // ← Your email here
