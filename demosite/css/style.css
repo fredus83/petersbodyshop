@@ -293,6 +293,12 @@ h6 {
 3. TEXT & PARAGRAPH
 ---------------------------------------------------------------*/
 
+.contact-hours {
+    color: #fff;
+    padding: 20px;
+    font-weight: bold;
+}
+
 p {
     line-height: 28px;
     margin-bottom: 24px;
