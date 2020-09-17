@@ -23,6 +23,9 @@ $pp->attachFiles(['image-1']);
 $pp->attachFiles(['image-2']);
 $pp->attachFiles(['image-3']);
 $pp->attachFiles(['image-4']);
+$pp->attachFiles(['resume']);
+
+
 
 
 $pp->sendEmailTo('nellyp7@gmail.com'); // ← Your email here
