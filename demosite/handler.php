@@ -28,6 +28,6 @@ $pp->attachFiles(['resume']);
 
 
 
-$pp->sendEmailTo('nellyp7@gmail.com'); // ← Your email here
+$pp->sendEmailTo('andy@petersbodyshop.com'); // ← Your email here
 
 echo $pp->process($_POST);
